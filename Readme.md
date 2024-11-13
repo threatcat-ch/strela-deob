@@ -6,3 +6,5 @@ Run with:
 ```
 node deob.js [input_file] [output_file]
 ```
+
+A Docker image is available on ghcr.io.
